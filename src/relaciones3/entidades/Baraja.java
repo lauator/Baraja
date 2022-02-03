@@ -14,6 +14,7 @@ import java.util.ArrayList;
 public class Baraja {
     
     private ArrayList<Carta> cartas = new ArrayList();
+    private Integer cantidad;
 
     public Baraja() {
         
