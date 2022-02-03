@@ -13,6 +13,7 @@ public class Carta {
     
     String palo;
     int numero;
+    String nombre;
 
     public Carta() {
     }
